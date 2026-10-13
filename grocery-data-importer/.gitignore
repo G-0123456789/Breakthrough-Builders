@@ -1,0 +1,13 @@
+# Firebase Service Account Credentials (Do NOT commit real keys)
+service-account.json
+*.json
+
+# Python Virtual Environment & Cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
