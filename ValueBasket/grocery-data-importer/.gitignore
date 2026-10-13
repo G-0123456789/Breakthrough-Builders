@@ -1,0 +1,13 @@
+# Firebase Service Account Credentials
+service-account.json
+*.json
+
+# Python Virtual Environment & Cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
